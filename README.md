@@ -38,8 +38,8 @@
 ## 🛠️ Installation
 
 1. Download the latest release from the **[Releases Page](https://github.com/dmitry-leehq2091t5/Miranda-Client/releases)**.
-2. Move the `.jar` or client folder into your Minecraft `.minecraft/mods` or launcher directory.
-3. Launch Minecraft using your preferred launcher and select the **Miranda Client** profile.
+2. Move Miranda Client to desktop.
+3. Launch **Client**  and select the your profile.
 
 ---
 
