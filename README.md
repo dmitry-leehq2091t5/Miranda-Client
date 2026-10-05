@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Иконка / Логотип из файла main.png -->
-  <img src="./main.png" alt="Miranda Client Logo" width="160" height="160" />
+  <img src="./main2.png" alt="Miranda Client Logo" width="160" height="160" />
 
   # 🔮 Miranda Client
 
